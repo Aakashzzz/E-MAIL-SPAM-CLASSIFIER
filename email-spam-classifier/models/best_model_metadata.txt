@@ -1,0 +1,4 @@
+Model Name: Support Vector Machine
+F1-Score: 0.9355
+Precision: 0.9915
+Recall: 0.8855
